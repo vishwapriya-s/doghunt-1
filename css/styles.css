@@ -1,0 +1,163 @@
+#testimonials{
+  text-align: center;
+  background-color:#ef8172;
+  padding: 7% 15%;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+h2{
+  color: #fff;
+  line-height: 1.5;
+
+}
+#press{
+    background-color:#ef8172;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.press-img{
+  width:15%;
+  margin: 20px;
+}
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+  padding: 5% 15%;
+}
+
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height:1.5;
+  color:white;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.title-image{
+  border-radius: 100%;
+  width: 80%;
+  padding-top: 30px;
+  margin-right: 50px;
+}
+/* navigation bar */
+
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  margin-left:30px;
+  font-family: "ubuntu";
+  font-size: 3.5rem;
+  font-weight: bold;;
+}
+.navbar-item{
+  margin: 0 18px;
+}
+
+.row{
+  text-align: center;
+  padding-top: 30px;
+}
+
+#title{
+  background-color: #ff4c68;
+}
+
+
+/* middle section */
+.fas {
+  color: black;
+  font-size: 3rem;
+  text-align: center;
+  margin-left: auto;
+  margin-bottom: 1rem;
+}
+h3{
+  font-family: "monserrat-black";
+  font-weight: bold;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+}
+
+.para{
+  width:50%;
+  margin: 0 auto;
+  color: #8f8f8f;
+}
+
+/* testimonials */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:  #ef8172;
+  color: white;
+}
+h2{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height:1.5;
+}
+
+.testimonial-img{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+
+text-align: center;
+padding-bottom: 3%;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.press-img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* pricing */
+#pricing{
+  margin : 50px;
+  padding: 50px;
+}
+
+.price-h2{
+  color:black;
+}
+
+
+.heading{
+  font-family: "Montserrat-bold";
+  font-size: 2.5rem;
+  line-height:1.5;
+  color: black;
+  text-align: center;
+  margin: 20px;
+}
+.price-para{
+  text-align: center;
+}
+
+#cta{
+  background-color:  #ef8172;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
